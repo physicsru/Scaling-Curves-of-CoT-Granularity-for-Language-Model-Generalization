@@ -1,5 +1,7 @@
 # Scaling-Curves-of-CoT-Granularity-for-Language-Model-Generalization
 
+code for arxiv paper Scaling-Curves-of-CoT-Granularity-for-Language-Model-Generalization
+
 generate data
 
 
